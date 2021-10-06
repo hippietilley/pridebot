@@ -2,8 +2,8 @@
   "name": "pridebot",
   "version": "0.0.0",
   "private": true,
-  "author": "(Tilley <hippietilley@gmail.com>)",
-  "description": "(A very queer hubot)",
+  "author": "Tilley <hippietilley@gmail.com>",
+  "description": "A very queer hubot",
   "dependencies": {
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
